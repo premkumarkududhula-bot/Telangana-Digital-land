@@ -1,0 +1,7 @@
+{
+  "name": "Remix: Telangana Digital Land",
+  "description": "A futuristic digital real estate trading platform where land slots double in value with every transaction.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
